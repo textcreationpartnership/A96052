@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most worthy speech, spoken by the Right Honourable Robert Earle of Warwicke; in the head of his army, November, 22. when he tooke his leave of them, and delivered them under the command of his excellence the Earle of Essex. Wherin is contained all the duties of a Christian souldier, both toward God and man, with many religious advertisements, to deterre them from swearing, and taking the name of the Lord in vaine. Whereunto is annexed a caveat for the cavaliers, being a true example of Gods judgement against one of that crew, which tooke a pride in blaspheming against God, and cursing the Roundheads.</title>
+            <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96052</idno>
+            <idno type="STC">Wing W1008</idno>
+            <idno type="STC">Thomason E128_30</idno>
+            <idno type="STC">ESTC R739</idno>
+            <idno type="EEBO-CITATION">99873123</idno>
+            <idno type="PROQUEST">99873123</idno>
+            <idno type="VID">156255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96052)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156255)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most worthy speech, spoken by the Right Honourable Robert Earle of Warwicke; in the head of his army, November, 22. when he tooke his leave of them, and delivered them under the command of his excellence the Earle of Essex. Wherin is contained all the duties of a Christian souldier, both toward God and man, with many religious advertisements, to deterre them from swearing, and taking the name of the Lord in vaine. Whereunto is annexed a caveat for the cavaliers, being a true example of Gods judgement against one of that crew, which tooke a pride in blaspheming against God, and cursing the Roundheads.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Fawcet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Novem. 29. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156255:1" rendition="simple:additions"/>
+            <p>A Moſt Worthy Speech, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poken by the Right Honourable <hi>ROBERT</hi> Earle of WARWICKE; In the Head of his Army, <hi>November,</hi> 22. when he tooke his leave of them, and delivered them under the Command of his Excellence the Earle of ESSEX.</p>
+            <p>VVherein is contained all the duties of a Chriſtian Souldier, both toward God and Man, with many religious advertiſements, to deterre them from ſwearing, and taking the Name of the Lord in vaine.</p>
+            <p>Whereunto is annexed a Caveat for the Cavaliers, being a true example of Gods Iudgement againſt one of that Crew, which rooke a pride in blaſphe<g ref="char:EOLhyphen"/>ming againſt God, and curſing the Roundheads.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Fawcet.</hi> Novem. 29. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:156255:2"/>
+            <pb n="1" facs="tcp:156255:2"/>
+            <head>A Caveat for the Cavaliers, or the Earle of <hi>Warwicks</hi> Caution to his ARMY</head>
+            <head type="sub">Being the truth of a Speech ſpoken by the ſaid Earle, on the two and twen<g ref="char:EOLhyphen"/>titeh day of <hi>November,</hi> when he delivered them under the Command of the Earle of ESSEX.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">N</seg>Oble Countrymen,</salute>
+            </opener>
+            <p>you that are to fight in this juſt cauſe, to preſerve your Kings Rights, the Priviledge of Parliament, and the whole Kingdoms ſafety, I have taken ſome paines to write this my deſire for you to follow, and then you muſt needs be fortunate and happy, forbeare this vaine uſe of ſwearing, and blaſpheming againſt his Name, whoſe power is above mans power, ſet your mindes on it and it will come alone, for uſe bereedeth facillitie, facillitie engendereth familiari<g ref="char:EOLhyphen"/>ty,
+<pb n="2" facs="tcp:156255:3"/>familiarity maketh readineſſe, readineſſe fra<g ref="char:EOLhyphen"/>meth perfectneſſe, perfectneſſe breedeth cuſtome, cuſtome forceth continuance, continuance convei<g ref="char:EOLhyphen"/>eth us to ſenceleſneſſe, ſenceleſneſſe lulleth us a ſleepe in the Cradle of ſecurity, ſo that we feare not, not feele not, our deſperate fall in the painfull Pit of Perjury, the unhappy reward whereof is perpetuall infelicity. Let us take heed then of ſwea<g ref="char:EOLhyphen"/>ring, or of the raſh naming of God, without reve<g ref="char:EOLhyphen"/>rence due unto his moſt glorious Name</p>
+            <p>What mockery and deriſion is this againſt Chriſt in the Church when his name is ſounded, to bend in token of reverence, and all the weeke after to ſweare by him, as though he were worthy of no ho<g ref="char:EOLhyphen"/>nour at all. The very <hi>Iewes</hi> uſed to teare their gar<g ref="char:EOLhyphen"/>ments, when they ſuppoſed they heard any blaſphe<g ref="char:EOLhyphen"/>my; The <hi>Turkes</hi> ſo eſteemed of their <hi>Mahomet,</hi> that they never vainely ſweare by his name, neither doe they admit unto Office of Government any Swearer, of what birth ſoever he be, or though he be for any other quality never ſo notable. Among the Heathen people (a ſhame to Chriſtians) one <hi>Regulus</hi> a worthy Roman, being taken priſoner by the <hi>Carthagenians,</hi> when they of <hi>Carthage</hi> deſired ra<g ref="char:EOLhyphen"/>ther to have their owne priſoners from the Romans they ſent this <hi>Regulus</hi> to <hi>Rome</hi> without any gage or pledge, ſave his faith onely, when he was at <hi>Rome,</hi> he perſwaded his Countrymen that his meſ<g ref="char:EOLhyphen"/>ſage was not profitable for his Country, and for his oath ſake, uncompelled, he returned as a priſo<g ref="char:EOLhyphen"/>ner
+<pb n="3" facs="tcp:156255:3"/>to <hi>Carthage</hi> alone without guard, where after the moſt cruelleſt manner, that miſchiefe of the moſt bloody minds could invent, after ſuch a ſort that I never read the like.</p>
+            <p>They put him to death moſt terribly in this man<g ref="char:EOLhyphen"/>ner, they compaſſed him round about with plankes which weare driven round with prickes, of Jron, the poynts whereof were made exceeding ſharpe, ſo that he could not bow himſelfe any way with<g ref="char:EOLhyphen"/>out grievous wounds, whereof his fleſh ranckling the longer he lived; the more grivous would be his payne, waking or ſleeping his feet muſt beare the burthen of his whole body, he might truly ſay I live, and ſo full well I dye, ſo the <hi>Saguntinians,</hi> rather then they would breake there faith, made unto the Romanes they indured willingly, all the puniſh<g ref="char:EOLhyphen"/>ments, that hunger, ſword, and fire could doe un<g ref="char:EOLhyphen"/>to them.</p>
+            <p>
+               <hi>Livius</hi> remembreth two Roman ſoldiers taken priſoners, diſmiſſed by <hi>Hanyball</hi> upon there oathes, to returne againe to his campe, the firſt ſubtily he left his ſword behind him, and when he was gone a good way from the campe he returned again to fetch his ſword, meaning by this ſubtill returning to ſave his oath, and niver more returne, but when this cauſe came to be diſputed at Rome, the heathen Romans ſent him back againe, as a perjured perſon, averting that an oath ought ſo to be performed, as he unto whom the oath was made did underſtand the promiſe.</p>
+            <pb n="4" facs="tcp:156255:4"/>
+            <p> The Law of the <hi>Egyptians</hi> was, that no Swearing ſhould be uſed, but in lawfull cauſe, if any were proved perjured he loſt his Head.</p>
+            <p>The <hi>Scythians</hi> had a Law likewiſe, that whoſoever was proved perjured, he ſhould be throwne downe the high Rocke <hi>Tarperos,</hi> and therefore when they did ſweare, they held a Stone in their hand, and proteſted, in this manner, if I lye, or ſweare ought but truth, caſt me violently from the Rocke, as I <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling this Stone from me.</p>
+            <p>What a ſhame is this to Chriſtians, that the hea<g ref="char:EOLhyphen"/>then people that knew no God, would not ſweare raſhly, and if they did, what puniſhments they they ſuffered, but we that profeſſe Chriſt, ſweare raſhly, and unreverently, and ſo we be truſted when we ſweare, we care not after though we breake our faith.</p>
+            <p>Deere Countrymen, and fellow ſouldiers, thinke but upon this, thinke what you have undertooke of the Cauſe you are to fight in, thinke againſt whome, the bloudy and inhumane Papiſts, they that keepe your deare Anointed King from you; thoſe blaſpheming and tiranous Cavaliers, that de<g ref="char:EOLhyphen"/>ſtroyes and brings to utter ruine every place where they come.</p>
+            <p>Therefore deare Countrymen follow not their evill Examples, to raviſh Wives and Virgins, to fire mens Barnes, and to deſtroy the Graine, for this they dayly doe, with Oathes on Oathes that ſtill they will go on in their moſt divelliſh and moſt de<g ref="char:EOLhyphen"/>teſtable
+<pb n="5" facs="tcp:156255:4"/>practizes, but doe you take thy counſell, and be but ruled by me, and keepe this in your thoughts we will quickly quell their valiant voyces, &amp; fetch our King (ſpight of their Oathes) home to his roy<g ref="char:EOLhyphen"/>all Throne.</p>
+         </div>
+         <div type="account_of_a_blasphemers_fate">
+            <head>A true Relation of the iuſt iudge<g ref="char:EOLhyphen"/>ment of God againſt a deboyſt Ca<g ref="char:EOLhyphen"/>valier, which tooke a pride in blaſphe<g ref="char:EOLhyphen"/>ming againſt God, and curſing the Round-Heads.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Ne of my Lord <hi>Moones</hi> Cavaliers, this laſt weeke within ſix Miles of <hi>Lanceſton,</hi> having been making merry, and after din<g ref="char:EOLhyphen"/>ner riding to his R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndevouze, he overtooke ſome honeſt Countrymen, that had been at <hi>Lanceſton,</hi> at Market, who rode together, being in number neare twenty Horſemen, among whom this luſty Cava<g ref="char:EOLhyphen"/>lier upon his prancing Horſe, daubed with gold Lace, with his loſty Plume, in his Montero, and riding up to them, ſaluted them in the manner fol<g ref="char:EOLhyphen"/>lowing, Damme-me where have all theſe Round<g ref="char:EOLhyphen"/>heads been to day, no Roundheads replyed one of them, but faithfull Subjects to the King and Par<g ref="char:EOLhyphen"/>liament.</p>
+            <pb n="6" facs="tcp:156255:5"/>
+            <p> 
+               <hi>Hang you ſaid <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, you have been all at an exerciſe, to heare a Sermon in a Tub, a pox take you all, and ſwore moſt terribly; unto whom one of the company, not able to abide ſuch blaſpheming abomination, in gentle wordes ſaid unto him, that he ſhould anſwer for every idle word, the Cavalier in a ſcornefull manner rapt out another Oath, and ſaid, take not thou care for me, but take care for thy winding ſheet, well ſayd the other amend, for Death giveth no warning, as ſoone cometh a Lambe-skin to the market, as an old Sheepe, with that the Cavalier rapt out oath af<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er oath, biding him take no care for him, thus he continued, till at length in their Iourney they were to ride over a great Bridge that went over an Arme of the Sea, upon which the gentleman ſwearing, ſpurred his Horſe, ſo that he leapt over the Bridge with the Cavalier on his backe, who as he was going cryed aloud, Horſe and man, and all to the Divell.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156255:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
